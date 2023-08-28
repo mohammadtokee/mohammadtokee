@@ -48,8 +48,3 @@ I am a `fullstack` software engineer from `Bangladesh`
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadtokee&layout=compact&theme=ayu-mirage&hide_border=true&border_radius=10&count_private=true" />
 </a>
-
-<br>
-<br>
-
-[![Mohammad Tokee's Code Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mohammadtokee&layout=compact&theme=ayu-mirage&hide_border=true&border_radius=10&custom_title=Code%20Stats)](https://github.com/anuraghazra/github-readme-stats)
