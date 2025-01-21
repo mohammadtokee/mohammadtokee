@@ -6,4 +6,4 @@ I am a `fullstack` software engineer based in `Bangladesh`.
 
 ## 🎓 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,vscode,tailwind,postman,npm,md,git,github,figma&perline=7&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,,html,css,js,react,tailwind,nodejs,express,mongodb,appwrite,vite,vscode,postman,npm,md,git,github,figma&perline=7&theme=light)](https://skillicons.dev)
